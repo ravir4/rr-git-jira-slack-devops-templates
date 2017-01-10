@@ -1,4 +1,4 @@
 ---
 parameters:
-  api_token: "xoxp-3941803746-45102773284-48105185328-44134b8799"
+  api_token: "https://hooks.slack.com/services/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"
   channel_name: "random"
