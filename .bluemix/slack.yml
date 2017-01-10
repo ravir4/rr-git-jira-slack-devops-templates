@@ -1,4 +1,4 @@
 ---
 parameters:
-  api_token: "https://hooks.slack.com/services/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"
+  api_token: ""
   channel_name: "random"
