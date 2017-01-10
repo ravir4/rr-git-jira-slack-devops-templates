@@ -86,9 +86,9 @@ ccm:
 #  hidden: [form, description]
     
 #Slack
-#messaging:
-#  service_id: slack
-#  include: slack.yml
+messaging:
+  service_id: slack
+  include: slack.yml
 
 #Sauce Labs
 #test:
